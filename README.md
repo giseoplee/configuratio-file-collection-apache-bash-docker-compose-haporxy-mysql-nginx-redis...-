@@ -22,7 +22,7 @@
 
 - redis-sentinel과 연계된 로드밸런싱 설정
 
-## MySQL (MaraiDB)
+## MySQL (MariaDB)
 
 - Production RDBMS 설정
 
@@ -32,8 +32,7 @@
 
 ## redis
 
-- 스냅샷 설정만 AOF로 바꿔서 영속성 보장
-- 거의 기본 설정에 가까운 설정
+- 스냅샷 설정을 AOF로 바꿔서 데이터 영속성 보장
 
 ## redis-sentinel
 
